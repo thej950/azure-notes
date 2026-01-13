@@ -63,3 +63,6 @@
 
 ### 📊 Monitoring
 - [📈 Monitoring Tools in Azure](az900.md#41monitoring-tools-in-azure)
+
+### Integration tools with Azure 
+- [Terraform integration with azure](azure-terraform.png)
